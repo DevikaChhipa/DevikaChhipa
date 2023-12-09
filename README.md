@@ -8,4 +8,7 @@
 DevikaChhipa/DevikaChhipa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-#DEVIKA
+#DevikaChhipa
+Im currently in Btech II year
+persuing computer science IOT branch 
+I have completed In-house training in C language
